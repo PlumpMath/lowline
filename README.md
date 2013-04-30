@@ -3,6 +3,10 @@
 
 Currently only contains _debounce_, but I might add more if they're useful.
 
+## Installation
+
+Lowline is available from [Clojars](https://clojars.org/lowline).
+
 ## Usage
 
 ```clojure
